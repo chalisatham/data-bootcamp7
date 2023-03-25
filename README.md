@@ -10,5 +10,5 @@ All my data project in the bootcamp. There are 10 sprints
 - Essential Statistic 
 - Essential ML
 - Python 
-- Python for data anylisis
+- Python for data anylist
 
